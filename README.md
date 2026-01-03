@@ -111,7 +111,7 @@ The analysis identified genes with significantly different expression between tu
 - [ ] Add survival analysis if clinical data available
 
 ## Author
-Karol - Biotechnology & Biomedical Engineering graduate
+Karolina Stocka - Biotechnology & Biomedical Engineering graduate
 Specialization: Medical Informatics
 
 ## License
@@ -119,3 +119,4 @@ This project is for educational and portfolio purposes.
 
 ## Acknowledgments
 Data from: Quigley et al., GEO accession GSE70947
+
